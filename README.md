@@ -93,9 +93,9 @@ Developed a VR driving simulation application to assist learners in preparing fo
 
 ## 📊 GitHub Stats
 
-![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimanazhari03&show_icons=true&theme=default&hide_border=true)
+![Aiman's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aimanazhari03&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanazhari03&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aimanazhari03&layout=compact&theme=default&hide_border=true)
 
 ---
 
